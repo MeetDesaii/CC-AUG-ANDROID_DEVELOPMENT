@@ -1,2 +1,2 @@
 # StickyNotes
-Sticky Notes - Andrid application using kotlin
+Sticky Notes - Android application using kotlin
